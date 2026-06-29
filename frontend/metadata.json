@@ -1,0 +1,7 @@
+{
+  "name": "CareAura",
+  "description": "An inclusive, anonymous, and 100% free AI-powered digital nutrition and health literacy companion for Indonesia's underserved communities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
