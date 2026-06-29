@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+out/
+
+# Secrets & Environment Variables
+.env
+.env.local
+backend/.env.local
+
+# Logs and IDEs
+*.log
+.vscode/
+.idea/
